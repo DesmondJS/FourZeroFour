@@ -11,4 +11,4 @@ We apologize for the inconvenience caused and thank you for your understanding.
 ---
 
 ### Google Drive Link  
-Google Drive link: [[INSERT_LINK_HERE] ](https://drive.google.com/drive/folders/17nnHuWX5QhHbC0KaQkCFd-1JVf2YlK4j?usp=sharing) 
+Google Drive link: https://drive.google.com/drive/folders/17nnHuWX5QhHbC0KaQkCFd-1JVf2YlK4j?usp=sharing 
