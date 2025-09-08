@@ -1,2 +1,14 @@
-# FourZeroFour
-A Unity-based VR project developed for the Extended Reality course group assignment. The simulation takes place in a chemical factory environment with flammable barrels, robotic arms, and dynamic fire hazards.
+# FourZeroFour!  
+
+### Assignment Submission for XR Course  
+
+This repository contains our **design report (PDF file)** for the Extended Reality course group assignment.  
+
+Due to file size limitations on GitHub, our **video submission** and the **zipped project folder** could not be uploaded here. Instead, we will provide a **Google Drive link** to access those files.  
+
+We apologize for the inconvenience caused and thank you for your understanding.  
+
+---
+
+### Google Drive Link  
+Google Drive link: [INSERT_LINK_HERE]  
